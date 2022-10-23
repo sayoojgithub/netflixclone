@@ -1,0 +1,16 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 30px;
+    padding: 20px;
+    display: flex;
+    
+    background-color: #111;
+    color: white;
+    
+}
+.footer-h2{
+    position: fixed;
+    left: 650px;
+}
